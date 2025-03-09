@@ -1,10 +1,8 @@
 # ThePerfectKiteBar
 
-Open source kite control bar for all chill kite-foil enthusiasts. 
-
+Open source kite control bar for all chill kite-foil enthusiasts.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)  [![GitHub Issues](https://img.shields.io/github/issues/aniva/theperfectkitebar.svg)](https://github.com/aniva/theperfectkitebar/issues)
-
 
 **Key Features:**
 
@@ -41,11 +39,11 @@ Open source kite control bar for all chill kite-foil enthusiasts.
 
 ## Step-by-Step Instructions
 
-1.  **Step 1:** [Detailed description of the first step with images/diagrams.]
+1. **Step 1:** [Detailed description of the first step with images/diagrams.]
     ![Image 1](path/to/image1.jpg)
-2.  **Step 2:** [Detailed description of the second step with images/diagrams.]
+2. **Step 2:** [Detailed description of the second step with images/diagrams.]
     ![Image 2](path/to/image2.jpg)
-3.  ...
+3. ...
 
 ## Safety Precautions
 
@@ -79,3 +77,8 @@ This project is licensed under Creative Commons Attribution-NonCommercial 4.0 In
 ## Authors
 
 [Your Name] - [Your Email] - [Your GitHub Profile](https://github.com/yourusername)
+
+<iframe id="inlineFrameExample"
+     title="Inline Frame Example"
+      src="https://docs.google.com/spreadsheets/d/15svGl55uW-zn0Cu85LUUS8AEBrIOmSCQ9AK3Igcy-KY/view">
+</iframe>
